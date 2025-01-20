@@ -1,0 +1,53 @@
+.custom-container {
+    background-color: #3622a4; /* Light blue background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .logo {
+    max-width: 100px;
+  }
+  .info-text {
+    margin: 0;
+  }
+  footer {
+background-color: #410cb5; /* Dark background for footer */
+  color: #f8f9fa; /* Light text color */
+}
+.footer-links a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer-links a:hover {
+    text-decoration: underline;
+  }
+
+.socket {
+  background-color: #1d0221; /* Darker background for socket */
+  color: #ccc;
+  text-align: center;
+  padding: 10px 0;
+}
+
+
+
+.navbar, .header {
+    background-color: white;
+}
+
+.navbar-nav .nav-link {
+    color: black !important;
+}
+
+.navbar-nav {
+    justify-content: space-between;
+}
+
+.dropdown-menu .dropdown-item {
+    color: black;
+}
+
+.dropdown-item:hover {
+    background-color: #f8f9fa;
+}
